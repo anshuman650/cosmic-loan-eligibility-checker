@@ -49,5 +49,5 @@ A futuristic, space-themed loan eligibility checker powered by AI (Gemini API). 
 
 ### 🔽 Clone the Repository
 ```bash
-git clone https://github.com/your-username/cosmic-loan-eligibility-checker.git
+https://github.com/anshuman650/cosmic-loan-eligibility-checker.git
 cd cosmic-loan-eligibility-checker

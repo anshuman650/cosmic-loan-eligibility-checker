@@ -21,6 +21,7 @@ A futuristic, space-themed loan eligibility checker powered by AI (Gemini API). 
 ---
 
 ## 📸 Live Demo (optional)
+https://anshuman650.github.io/cosmic-loan-eligibility-checker/
 <!-- or a hosted image URL -->
 
 ---
